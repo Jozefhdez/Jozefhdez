@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my 2020<br>📚 I'm currently learning OOP<br>🎯 Goals: Master the fundamentals of programming languages, enhance problem-solving skills, and contribute to an open-source project. Strive for clean, efficient code and continual learning to stay at the forefront of technology<br>🎲 Fun fact: I turn bugs into features!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning OOP<br>🎯 Goals: Master the fundamentals of programming languages, enhance problem-solving skills, and contribute to an open-source project. Strive for clean, efficient code and continual learning to stay at the forefront of technology<br>🎲 Fun fact: I turn bugs into features!</p>
 
 ###
 
