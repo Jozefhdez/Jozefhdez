@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020🎯 Goals: Master the fundamentals of programming languages and enhance problem-solving skills. Strive for clean, efficient code and continual learning to stay at the forefront of technology<br>🎲 Fun fact: I turn bugs into features!</p>
+<p align="left">✨ Creating bugs since 2020 
+🎯 Goals: Master the fundamentals of programming languages and enhance problem-solving skills.
+Strive for clean, efficient code and continual learning to stay at the forefront of technology
+<br>🎲 Fun fact: I turn bugs into features!</p>
 
 ###
 
