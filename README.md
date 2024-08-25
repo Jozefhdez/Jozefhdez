@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jozef Hernández, and I am a second-semester Computer Engineering student at Monterrey Institute of Technology and Higher Education in Mexico.</p>
+<p align="left">My name is Jozef Hernández, and I am a third-semester Computer Engineering student at Monterrey Institute of Technology and Higher Education in Mexico.</p>
 
 ###
 
