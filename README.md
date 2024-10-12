@@ -11,8 +11,8 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020.
-<br>🎯 Goals: Master efficient data structures and algorithms.<br>
-<br>Strive for clean, efficient code and continual learning to stay at the forefront of technology.<br>
+<br><br>🎯 Goals: Master efficient data structures and algorithms.<br>
+<br>🌟 Strive for clean, efficient code and continual learning to stay at the forefront of technology.<br>
 <br>🎲 Fun fact: I turn bugs into features!</p>
 
 ###
