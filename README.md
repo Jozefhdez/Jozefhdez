@@ -14,20 +14,31 @@
 
 ###
 
-<h2 align="left">Tech Skills & Tools</h2>
+## Tech Skills & Tools
+
+### Languages
+![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Swift](https://skillicons.dev/icons?i=swift) ![Lua](https://skillicons.dev/icons?i=lua) ![MATLAB](https://skillicons.dev/icons?i=matlab)
+
+### Web & Frameworks
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Supabase](https://skillicons.dev/icons?i=supabase) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Tools & Editors
+![Neovim](https://skillicons.dev/icons?i=neovim) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma)
+
 
 ###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,supabase,mysql,py,cpp,cs,swift,lua,matlab,git" />
-  </a>
-</p>
+
+
+## Top Languages
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,figma" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefhdez&layout=compact" alt="Top Languages" />
 </p>
 
-###
+## Contact
+
+Feel free to reach out to me:
+
+- [LinkedIn](https://www.linkedin.com/in/jozefhdez/)
+- Jozefhdez@gmail.com
