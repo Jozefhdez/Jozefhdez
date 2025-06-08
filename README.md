@@ -22,7 +22,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,supabase,mysql,py,cpp,cs,swift,lua,matlab,git,neovim,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,supabase,mysql,py,cpp,cs,swift,lua,matlab,git" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,figma" />
   </a>
 </p>
 
