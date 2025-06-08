@@ -23,7 +23,7 @@
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Supabase](https://skillicons.dev/icons?i=supabase) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools & Editors
-![Neovim](https://skillicons.dev/icons?i=neovim) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma)
+![Neovim](https://skillicons.dev/icons?i=neovim) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma) ![Unity](https://skillicons.dev/icons?i=unity)
 
 
 ###
