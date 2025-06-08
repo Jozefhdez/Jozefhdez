@@ -10,9 +10,7 @@
 
 ###
 
-<p align="left">I build things.</p>
-<p align="left">Sometimes they work.</p>
-<p align="left">Currently pretending to know what I'm doing.</p>
+<p align="left">I build things</p>
 
 ###
 
