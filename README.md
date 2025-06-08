@@ -16,13 +16,13 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Skills & Tools</h2>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,supabase,mysql,py,cpp,csharp,swift,lua,matlab,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,supabase,mysql,py,cpp,cs,swift,lua,matlab,git,neovim,figma" />
   </a>
 </p>
 
