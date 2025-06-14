@@ -33,7 +33,7 @@
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefhdez&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozefhdez&layout=compact&theme=synthwave" alt="Top Languages" />
 </p>
 
 ## Contact
