@@ -22,11 +22,9 @@
 ### Web & Frameworks
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flask](https://skillicons.dev/icons?i=flask) ![Supabase](https://skillicons.dev/icons?i=supabase) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### Cloud & DevOps
-![Oracle](https://skillicons.dev/icons?i=oracle) ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Railway](https://skillicons.dev/icons?i=railway) 
 
 ### Tools & Editors
-![Neovim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git)  ![Unity](https://skillicons.dev/icons?i=unity) ![Figma](https://skillicons.dev/icons?i=figma)
+![Vercel](https://skillicons.dev/icons?i=vercel) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git)  ![Unity](https://skillicons.dev/icons?i=unity) ![Figma](https://skillicons.dev/icons?i=figma)
 
 
 ###
