@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jozef Hernández, and I am a fifth-semester Computer Science student at Tecnológico de Monterrey (ITESM).</p>
+<p align="left">My name is Jozef Hernández, and I am a fourth-semester Computer Science student at Tecnológico de Monterrey (ITESM).</p>
 
 ###
 
