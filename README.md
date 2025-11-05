@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jozef Hernández, and I am a fifth-semester Computer Science student at Tecnológico de Monterrey (ITESM).</p>
+<p align="left">My name is Jozef Hernández, and I am a 5th semester Computer Science student at Tecnológico de Monterrey (ITESM).</p>
 
 ###
 
@@ -27,13 +27,12 @@
 ![Vercel](https://skillicons.dev/icons?i=vercel) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git)  ![Unity](https://skillicons.dev/icons?i=unity) ![Figma](https://skillicons.dev/icons?i=figma)
 
 
-###
-
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jozefhdez&show_icons=true&theme=transparent&Top&hide=c%23,shaderlab,css,typescript,hlsl" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jozefhdez&show_icons=true&theme=transparent&Top&hide=c%23,shaderlab,css,typescript,hlsl&hide_title=true" alt="Top Languages" />
 </p>
+
 ## Contact
 
 Feel free to reach out to me:
