@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jozef Hernández, a 5th semester Computer Science student at Tecnológico de Monterrey and incoming SWE Intern @ Oracle.</p>
+<p align="left">My name is Jozef Hernández, a 5th semester Computer Science student at Tecnológico de Monterrey.</p>
 
 ###
 
