@@ -2,7 +2,7 @@
 
 <h1><code>root@jozefhdez:~$</code></h1>
 <p>
-<code> Low-level learner | Incoming SWE Intern @ Oracle</code>
+<code>Incoming SWE Intern @ Oracle</code>
 </p>
 
 </div>
