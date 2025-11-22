@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jozef Hernández, and I am a 5th semester Computer Science student at Tecnológico de Monterrey (ITESM).</p>
+<p align="left">My name is Jozef Hernández, a 5th semester Computer Science student at Tecnológico de Monterrey and incoming SWE Intern @ Oracle.</p>
 
 ###
 
@@ -10,32 +10,23 @@
 
 ###
 
-<p align="left">I build things</p>
+<p align="left">I’m building my path toward low-level systems development, learning C, assembly, and database internals.</p>
 
 ###
 
 ## Tech Skills & Tools
 
-### Languages
-![Python](https://skillicons.dev/icons?i=py) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C#](https://skillicons.dev/icons?i=cs) ![Swift](https://skillicons.dev/icons?i=swift) ![Lua](https://skillicons.dev/icons?i=lua)
+### Programming Languages
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
 
 ### Web & Frameworks
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Supabase](https://skillicons.dev/icons?i=supabase) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
+### Tools & Systems
+![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
 
-### Tools & Editors
-![Vercel](https://skillicons.dev/icons?i=vercel) ![Neovim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git)  ![Unity](https://skillicons.dev/icons?i=unity) ![Figma](https://skillicons.dev/icons?i=figma)
-
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jozefhdez&show_icons=true&theme=transparent&Top&hide=c%23,shaderlab,css,typescript,hlsl&hide_title=true" alt="Top Languages" />
-</p>
+###
 
 ## Contact
-
-Feel free to reach out to me:
-
-- [LinkedIn](https://www.linkedin.com/in/jozefhdez/)
-- Jozefhdez@gmail.com
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jozefhdez/)
+</p>
