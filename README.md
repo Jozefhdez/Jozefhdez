@@ -26,6 +26,7 @@ tools: git, linux
 ```
 
 ```root@jozefhdez:~$ cat contact_info```
+
 ```yaml
 linkedin: https://linkedin.com/in/jozefhdez
 ```
