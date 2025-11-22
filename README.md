@@ -1,32 +1,31 @@
-<h1 align="left">Hi</h1>
+<div align="center">
 
-###
-
-<p align="left">My name is Jozef Hernández, a 5th semester Computer Science student at Tecnológico de Monterrey.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I’m building my path toward low-level systems development, learning C, assembly, and database internals.</p>
-
-###
-
-## Tech Skills & Tools
-
-### Programming Languages
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
-
-### Web & Frameworks
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-### Tools & Systems
-![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
-
-###
-
-## Contact
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jozefhdez/)
+<h1><code>root@jozefhdez:~$</code></h1>
+<p>
+<code> Low-level learner | Incoming SWE Intern @ Oracle</code>
 </p>
+
+</div>
+
+```root@jozefhdez:~$ ./display_user.sh```
+
+```
+user:  jozefhdez
+role:  cs student @ itesm, incoming swe intern @ oracle
+focus: c, assembly, storage systems
+about: learning C and assembly.
+```
+
+```root@jozefhdez:~$ ./list_stack.sh```
+
+```
+langs: c, c++, assembly, python, js, ts
+web:   html, css, react, nodejs
+db:    mysql, postgresql
+tools: git, linux
+```
+
+```root@jozefhdez:~$ cat contact_info```
+```
+linkedin: https://linkedin.com/in/jozefhdez
+```
