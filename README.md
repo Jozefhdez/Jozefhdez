@@ -1,9 +1,6 @@
 <div align="center">
 
 <h1><code>root@jozefhdez:~$</code></h1>
-<p>
-<code>Incoming SWE Intern @ Oracle</code>
-</p>
 
 </div>
 
