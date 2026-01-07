@@ -10,7 +10,7 @@
 user:  jozefhdez
 role:  cs student @ itesm, incoming swe intern @ oracle
 focus: c, assembly, storage systems
-about: learning C and assembly.
+about: learning C and assembly
 ```
 
 ```root@jozefhdez:~$ ./list_stack.sh```
